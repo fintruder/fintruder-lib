@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ4845
+D Parallel RTC With CPU Supervisor
+K RTC
+F http://www.ti.com/lit/ds/symlink/bq4845.pdf
+$ENDCMP
+#
+$CMP M48T02-70PC1
+D Integrated, ultra low power SRAM, real-time clock, and power-fail control circuit
+F http://www.mouser.com/ds/2/389/m48t02-955114.pdf
+$ENDCMP
+#
+#End Doc Library

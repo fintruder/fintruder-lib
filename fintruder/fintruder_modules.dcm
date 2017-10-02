@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHCT1G04
+D SINGLE INVERTER GATE
+K Inverters AHC TTL Compatible LOGIC
+F http://www.mouser.com/ds/2/115/74AHCT1G04-83266.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TIM9904
+D 4-Phase Clock Generator
+K TMS9900 4-Phase Clock Generator Driver
+F https://ia600604.us.archive.org/9/items/TIM9904Datasheet/TIM9904%20datasheet.pdf
+$ENDCMP
+#
+$CMP TMS9900
+D TMS990 CPU
+K Ti CPU
+F http://bitsavers.trailing-edge.com/pdf/ti/TMS9900/TMS_9900_Microprocessor_Data_Manual_May76.pdf
+$ENDCMP
+#
+$CMP TMS9902
+D Async Communications Controller
+K TMS9902 Asynchronous Communications Controller Serial
+F http://bitsavers.trailing-edge.com/pdf/ti/TMS9900/TMS_9902_Asynchronous_Communications_Controller_Jan77.pdf
+$ENDCMP
+#
+#End Doc Library

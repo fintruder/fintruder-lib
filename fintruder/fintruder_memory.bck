@@ -1,0 +1,77 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24C256
+D 24C256 32k Serial EEPROM
+K 32k serial Microchip EEPROM
+F http://www.mouser.com/ds/2/321/602-00032-24LC256-EEPROM-Datasheet-370085.pdf
+$ENDCMP
+#
+$CMP 2716
+D EPROM 2Kb
+K EPROM 2Kb
+$ENDCMP
+#
+$CMP 2732
+D REPROM 4 Ko
+K REPROM 4KO
+$ENDCMP
+#
+$CMP 2764
+D EPROM 8Kb
+K EPROM 8Kb
+$ENDCMP
+#
+$CMP 27C1024
+D EPROM 64 Kb
+K EPROM 64Kb
+F https://www.jameco.com/Jameco/Products/ProdDS/203641AMD.pdf
+$ENDCMP
+#
+$CMP 27C512
+D EPROM 64Kx8
+K EPROM 64Kx8 512k
+F http://www.mouser.com/ds/2/268/doc0015-1066078.pdf
+$ENDCMP
+#
+$CMP 27C64
+D REPROM 8Ko
+K REPROM 8KO
+$ENDCMP
+#
+$CMP 4116
+D DRAM
+K 16,384 16K DRAM
+F http://www.rogtronics.net/files/datasheets/mem_dram/TMS4116.pdf
+$ENDCMP
+#
+$CMP 6116
+D CY6116A
+K 2kx8 Static RAM
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/82731/CYPRESS/CY6116A.html
+$ENDCMP
+#
+$CMP CY7C1021D
+D 64K x 16 SRAM
+K 2Mb 10ns 64K x 16 Fast Async SRAM 
+F http://www.mouser.com/ds/2/100/38-05462_CY7C1021D_1_MBIT_64K_X_16_STATIC_RAM-319200.pdf 64K x 16 
+$ENDCMP
+#
+$CMP CY7C168A
+D CY7C168A 4Kx4 Static Ram
+K 4Kx4 Static Ram SRAM
+F http://www.mouser.com/ds/2/100/Cypress_CY7C168A-464042.pdf
+$ENDCMP
+#
+$CMP CY7C182-45PC
+D CY7C182 8K x 9 RAM
+K CY7C182 8K x 9 Static R/W RAM
+F http://www.cypress.com/file/35446/download
+$ENDCMP
+#
+$CMP CY7C199
+D 32K x 8 Static RAM
+K 32K High speed Static RAM
+F http://www.jameco.com/Jameco/Products/ProdDS/242376CYPRESS.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DIN6_PS2
+D Mini DIN-6 PS/2 Connector
+K Mini DIN-6 PS/2 Connector
+F http://www.mouser.com/ds/2/222/KMDGX-6S-BS2715C-184098.pdf
+$ENDCMP
+#
+$CMP DIN6_PS2_V2
+D Mini DIN-6 PS/2 Connector
+K Mini DIN-6 PS/2 Connector
+F http://www.mouser.com/ds/2/222/KMDGX-6S-BS2715C-184098.pdf
+$ENDCMP
+#
+$CMP VGA_HD15
+D D-Sub HD-15 Connector
+K VGA SVGA D-Sub HD-15
+F http://www.mouser.com/ds/2/418/NG_CD_1734530_B3__-658681.pdf
+$ENDCMP
+#
+#End Doc Library

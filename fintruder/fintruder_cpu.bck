@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8080
+D 8080 MPU
+K Intel 8080 Microprocessor
+F http://www.intel-vintage.info/intelmcs.htm
+$ENDCMP
+#
+$CMP 8080A_Exp
+D 8080 Expanded Schematic
+K Intel 8080 Microprocessor
+F http://www.intel-vintage.info/intelmcs.htm
+$ENDCMP
+#
+$CMP 8207
+D DRAM Controller
+K DRAM Controller
+F http://www.nj7p.info/Manuals/PDFs/Intel/210463-007.pdf
+$ENDCMP
+#
+$CMP 8214
+D Interrupt Controller
+K 8080 Priority Interrupt Control Unit
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/155202/INTEL/M8214/+04W_2WVGLy.LcPwNtC+/datasheet.pdf
+$ENDCMP
+#
+$CMP 8228
+D 8080 System Controller
+K Sytem Controller and Bus Driver for Intel 8080A
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/123362/INTEL/8228/+02_4JWVGLy.LcCtNE+/datasheet.pdf
+$ENDCMP
+#
+$CMP 8259
+D 8259, Programmable Interrupt Controller, PDIP-28
+K PIC
+F http://pdos.csail.mit.edu/6.828/2005/readings/hardware/8259A.pdf
+$ENDCMP
+#
+$CMP HD-6120
+D HD-6120 MPU (PDP-8 Compat)
+K Harris Intersil HD-6120 DEC PDP
+F http://bitsavers.informatik.uni-stuttgart.de/pdf/dec/pdp8/cmos8/_dataSheets/HD-6120.pdf
+$ENDCMP
+#
+$CMP MAX232N
+D Dual EIA-232 Line Drivers/Receivers
+K RS232
+F https://www.jameco.com/Jameco/Products/ProdDS/698576.pdf
+$ENDCMP
+#
+$CMP MOS_6522
+D MOS 6522 VIA
+K MOS 6522 VIA Versatile Interface Adapter
+F http://www.princeton.edu/~mae412/HANDOUTS/Datasheets/6522.pdf
+$ENDCMP
+#
+$CMP MOS_6551
+D ACIA
+K 6551 Asynchronous Communications Interface Adapter ACIA
+F http://www.jameco.com/Jameco/Products/ProdDS/43318.pdf
+$ENDCMP
+#
+$CMP P8X32A_Prop
+D Parallax P8X32A Propeller
+K VGA Serial MCU
+F https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf
+$ENDCMP
+#
+#End Doc Library

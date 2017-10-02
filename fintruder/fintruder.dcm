@@ -1,0 +1,78 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 9600-PRO
+D Keyboard Encoder IC
+K Keyboard
+F http://www.applelogic.org/files/9600PRO.pdf
+$ENDCMP
+#
+$CMP CD4018
+D CMOS Divide-By-'N'
+K CMOS Presettable Divide-By-'N' Counter
+F http://www.ti.com/lit/ds/symlink/cd4018b.pdf
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP MCP1700-330
+D CMOS LDO Voltage Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MMI_6061
+D 5x7 Character Generator
+K MMI High Speed Character Generator ASCII
+F http://datasheet.datasheetarchive.com/originals/distributors/Datasheets-112/DSAP0051058.pdf
+$ENDCMP
+#
+$CMP PAL16V8
+D 16V8 PAL
+K PAL GAL PLD 16V8 programmable logic device
+F http://ee-classes.usc.edu/ee459/library/datasheets/16v8.pdf
+$ENDCMP
+#
+$CMP PAL22V10
+D 22V10 PAL
+K PAL GAL PLD 22V10 programmable logic device
+F http://eelinux.ee.usm.maine.edu/courses/ele373/pal22v10.pdf
+$ENDCMP
+#
+$CMP R_BUSSED_10
+D 10 Element Resistor Bus
+K resistor bus network
+F http://www.mouser.com/ds/2/54/300R-777281.pdf
+$ENDCMP
+#
+$CMP R_BUSSED_4
+D 4 Element Resistor Bus
+K resistor bus network
+F http://www.mouser.com/ds/2/54/600x-776645.pdf
+$ENDCMP
+#
+$CMP R_BUSSED_9
+D 9 Element Resistor Bus
+K resistor bus network
+F http://www.mouser.com/ds/2/54/600x-776645.pdf
+$ENDCMP
+#
+$CMP Switch_SPDT_CK_7000_Series
+D C&K 7000 Series Miniature Toggle Switches
+K Miniature Toggle Switches
+F http://www.mouser.com/ds/2/60/-541569.pdf
+$ENDCMP
+#
+$CMP TL145406N
+D RS-232 Interface IC Triple RS-232
+K RS-232 Interface
+F http://www.ti.com/lit/ds/symlink/tl145406.pdf
+$ENDCMP
+#
+$CMP Transformer_2SP_3SS
+D Transformer, split primary, dual secondary
+K transformer coil magnet
+$ENDCMP
+#
+#End Doc Library

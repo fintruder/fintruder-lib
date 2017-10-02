@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74180
+D 9BIT ODD/EVEN PARITY GENERATOR
+K 74180 9BIT ODD/EVEN PARITY GENERATOR CHECKER DIP-14
+F http://www.jameco.com/Jameco/Products/ProdDS/49832TI.pdf
+$ENDCMP
+#
+$CMP 74HC244
+D 8bits Buffer/Line Driver 3 state
+K TTL BUFFER 3State 
+F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3 State out
+K HCMOS BUS 3State
+$ENDCMP
+#
+$CMP 74HCT244
+D 8bits Buffer/Line Driver 3 state
+K TTL BUFFER 3State 
+F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP 74HCT245
+D Octal BUS Transceivers, 3 State out
+K TTL BUS 3State
+F http://www.ti.com/lit/ds/symlink/sn74hct245.pdf
+$ENDCMP
+#
+$CMP 74HCT4075
+D Triple 3-Input OR Gate
+K High-Speed CMOS Logic Triple 3-Input OR Gate
+F http://www.ti.com/lit/ds/symlink/cd74hct4075.pdf
+$ENDCMP
+#
+$CMP 74HCT93
+D 4-Bit Ripple Counter
+K CMOS 4-Bit Binary Ripple Counter
+F http://www.ti.com/lit/ds/symlink/cd74hct93.pdf
+$ENDCMP
+#
+$CMP 74LS163
+D Binary Counter
+K 4-Bit Synchronous Binary Counters
+F http://www.ti.com/lit/ds/symlink/sn74hc163.pdf
+$ENDCMP
+#
+$CMP 74LS245
+D Octal BUS Transceivers, 3 State out
+K TTL BUS 3State
+$ENDCMP
+#
+$CMP 74LS293
+D 4-Bit Counter
+K CMOS 4-Bit Binary Ripple Counter
+F http://www.ti.com/lit/ds/symlink/cd74hct93.pdf
+$ENDCMP
+#
+#End Doc Library

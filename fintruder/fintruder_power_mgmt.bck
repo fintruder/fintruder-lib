@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2024P
+D Power Switch 2.2A 2.7-5.5V
+K power switch
+F http://www.ti.com/lit/ds/symlink/tps2024.pdf
+$ENDCMP
+#
+$CMP TPS2030P
+D Power Distribution 0.22A 2.7-5.5V
+K power switch
+F http://www.ti.com/lit/ds/symlink/tps2030.pdf
+$ENDCMP
+#
+#End Doc Library
